@@ -1,0 +1,11 @@
+gpt|Welcome to Tudu! How can I assist you today?
+fnc|createTask|{
+  "contents": "eggs"
+}
+fnc|createTask|{
+  "contents": "bread"
+}
+fnc|createTask|{
+  "contents": "milk"
+}
+gpt|Great! I have added "eggs", "bread", and "milk" to your task list. Is there anything else you would like to do?

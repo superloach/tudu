@@ -1,0 +1,11 @@
+gpt|Hello! Welcome to Tudu, your personal task management app. How can I assist you today?
+fnc|createTask|{
+  "contents": "eggs"
+}
+fnc|createTask|{
+  "contents": "bread"
+}
+fnc|createTask|{
+  "contents": "milk"
+}
+gpt|I have added the tasks for eggs, bread, and milk to your Tudu list. If you have any more tasks or need assistance with anything else, please let me know.
