@@ -1,0 +1,1 @@
+old bits of code i don't want to lose.
